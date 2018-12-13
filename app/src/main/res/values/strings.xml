@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab2_MovieSearch</string>
+    <string name="action_search">Search</string>
+</resources>
